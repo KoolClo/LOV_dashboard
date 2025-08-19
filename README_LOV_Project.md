@@ -21,8 +21,6 @@ This project focuses on preparing participant-level data for monitoring and eval
 ## 📂 Repository Contents
 
 - `Data_processing_CK.R`: Main R script to collapse and clean the raw data
-- `Enrolled_LOV_IDs.csv`: Sample raw data file exported from REDCap
-- `DashboardSample_CK.pptx`: Example output dashboard used for stakeholder reporting
 
 ## 💻 Sample Code
 
@@ -48,3 +46,4 @@ Public Health Data & Training Center
 📫 [LinkedIn](https://www.linkedin.com/in/chloemkelly) 
 
 *Note: This is a sample project; all data has been anonymized or is synthetic.*
+
